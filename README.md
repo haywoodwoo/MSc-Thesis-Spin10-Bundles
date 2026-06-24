@@ -31,13 +31,13 @@ This repository is intended as a public research summary of the thesis. It is no
 
 ## Repository Structure
 
-- thesis_summary.md: high-level summary of the thesis
-- mathematical_background.md: key mathematical structures used in the thesis
-- physics_background.md: gauge theory, gravity, Standard Model, and grand unification context
-- main_results.md: main conceptual and technical contributions
-- chapter_map.md: guide to the structure of the thesis
-- limitations_and_future_work.md: limitations and possible future research directions
-- **references.md selected references and background texts
+- **thesis_summary.md**: high-level summary of the thesis
+- **mathematical_background.md**: key mathematical structures used in the thesis
+- **physics_background.md**: gauge theory, gravity, Standard Model, and grand unification context
+- **main_results.md**: main conceptual and technical contributions
+- **chapter_map.md**: guide to the structure of the thesis
+- **limitations_and_future_work.md**: limitations and possible future research directions
+- **references.md** selected references and background texts
 
 ## Research Direction
 
