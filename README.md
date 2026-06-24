@@ -1,6 +1,6 @@
-Clifford Algebra and Principal Bundles for Spin(10) Grand Unification
+#Clifford Algebra and Principal Bundles for Spin(10) Grand Unification
 
-Overview
+##Overview
 
 This repository summarizes my MSc thesis in Physics at Heidelberg University:
 
@@ -10,7 +10,7 @@ The thesis develops an algebraic-geometric framework for grand unification on cu
 
 The central idea is to treat spacetime spin geometry and internal grand-unified gauge symmetry in a common geometric language. In this formulation, Spin(1,3) describes the local Lorentz spin structure, while Spin(10) describes the internal grand-unified gauge symmetry.
 
-Main Themes
+##Main Themes
 
 * Clifford algebras and spin representations
 * Pin and Spin groups
@@ -25,11 +25,11 @@ Main Themes
 * Anomaly cancellation and hypercharge quantization
 * Curved-spacetime Lagrangian formulation
 
-Purpose of This Repository
+##Purpose of This Repository
 
 This repository is intended as a public research summary of the thesis. It is not meant to replace the full thesis, but to present the motivation, mathematical structure, main results, and future directions in a concise and readable form.
 
-Repository Structure
+##Repository Structure
 
 * thesis_summary.md: high-level summary of the thesis
 * mathematical_background.md: key mathematical structures used in the thesis
@@ -37,8 +37,8 @@ Repository Structure
 * main_results.md: main conceptual and technical contributions
 * chapter_map.md: guide to the structure of the thesis
 * limitations_and_future_work.md: limitations and possible future research directions
-* references.md: selected references and background texts
+* **references.md selected references and background texts
 
-Research Direction
+##Research Direction
 
 This work lies at the intersection of mathematical physics, high-energy theory, differential geometry, gauge theory, Clifford algebra, spin geometry, and beyond-the-Standard-Model physics.
